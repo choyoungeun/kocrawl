@@ -22,7 +22,8 @@ SEARCH = {
         'naver_map': 'https://map.naver.com/v5/api/search?caller=pcweb&query=',
         'daum_dict': 'https://100.daum.net/',
         'daum_news': 'https://news.daum.net/ranking/popular/',
-        'naver_term': 'https://terms.naver.com/'
+        'naver_term': 'https://terms.naver.com/',
+        'eco_info': 'https://www.2050cnc.go.kr/base/board/list?boardManagementNo=7&menuLevel=2&menuNo=19&searchCategory=11&searchType=title&searchWord='
     },
     'headers': {
         'User-Agent': 'Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
