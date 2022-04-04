@@ -23,7 +23,7 @@ SEARCH = {
         'daum_dict': 'https://100.daum.net/',
         'daum_news': 'https://news.daum.net/ranking/popular/',
         'naver_term': 'https://terms.naver.com/',
-        'eco_info': 'https://www.2050cnc.go.kr/base/board/list?boardManagementNo=7&menuLevel=2&menuNo=19&searchCategory=11&searchType=title&searchWord='
+        'eco_info': 'https://cpoint.or.kr/user/info/wisdom.do?tab='
     },
     'headers': {
         'User-Agent': 'Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36',
